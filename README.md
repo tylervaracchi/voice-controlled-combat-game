@@ -4,7 +4,7 @@ A Unity fighting game where players control their character entirely through voi
 
 ![Unity](https://img.shields.io/badge/Unity-2021.3+-black?logo=unity)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
 
 ![Gameplay Demo](docs/punch-high.gif)
 *Voice command "punch" triggers attack animation in real-time*
