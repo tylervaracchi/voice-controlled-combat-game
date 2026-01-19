@@ -166,4 +166,4 @@ Technical Artist
 
 ## License
 
-MIT License - See [LICENSE](LICENSE) for details.
+**All Rights Reserved** — This code is provided for viewing and portfolio demonstration only. See [LICENSE](LICENSE) for details.

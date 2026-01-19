@@ -1,3 +1,5 @@
+// Copyright (c) 2024 Tyler Varacchi. All Rights Reserved.
+// This code is proprietary. Unauthorized copying or use is prohibited.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
